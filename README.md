@@ -1,2 +1,1 @@
-# Physique-Exp-rimentale
-TP, random projects abt phys, maths, ...
+# Physique-Experimentale #
